@@ -325,16 +325,16 @@ section .title::after{
     background: crimson;
 }
 .skills-content .right .html::before{
-    width: 90%;
+    width: 20%;
 }
 .skills-content .right .css::before{
-    width: 60%;
+    width: 20%;
 }
 .skills-content .right .js::before{
     width: 20%;
 }
 .skills-content .right .C::before{
-    width: 80%;
+    width: 90%;
 }
 
 /* education section styling */
